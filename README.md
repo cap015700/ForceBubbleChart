@@ -1,4 +1,4 @@
 # ForceBubbleChart
-![fbc1](Images/fbc1.png)
+![fbc1](images/fbc1.png)
 
-![fbc2](Images/fbc2.png)
+![fbc2](images/fbc2.png)
